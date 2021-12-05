@@ -1,0 +1,15 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "advent/pz5/aoc2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StartForKiller",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "two.js": "^0.7.12"
+  }
+}
