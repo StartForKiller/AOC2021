@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs'
+const readFileSync = require('fs').readFileSync
 
 async function main() {
     const input = readFileSync('./advent/pz5/input.txt', 'utf8')

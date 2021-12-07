@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs'
+const readFileSync = require('fs').readFileSync
 
 function determineCommon(list, index, ) {
     let numbersOfOnes = 0

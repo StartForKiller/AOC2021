@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs'
+const readFileSync = require('fs').readFileSync
 
 async function main() {
     const input = readFileSync('input.txt', 'utf8')

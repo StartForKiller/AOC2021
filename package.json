@@ -2,14 +2,15 @@
   "name": "graphs",
   "version": "1.0.0",
   "description": "",
-  "main": "advent/pz5/aoc2.js",
+  "main": "advent/pz7/aoc1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "StartForKiller",
   "license": "MIT",
-  "type": "module",
   "dependencies": {
+    "big-integer": "^1.6.51",
+    "bignumber.js": "^9.0.1",
     "two.js": "^0.7.12"
   }
 }

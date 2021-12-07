@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs'
+const readFileSync = require('fs').readFileSync
 
 function checkWin(board) {
     for(let y = 0; y < 5; y++) {
